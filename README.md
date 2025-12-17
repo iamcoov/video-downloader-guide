@@ -112,7 +112,7 @@ This project is released under the MIT License.
 
 ---
 
-⬆️ [Back to Top](#-table-of-contents)
+⬆️ [Back to Top](#table-of-contents)
 
 # 中文
 
@@ -200,5 +200,5 @@ This project is released under the MIT License.
 
 本项目采用 MIT License 开源发布。
 
-⬆️ [Back to Top](#-table-of-contents)
+⬆️ [Back to Top](#table-of-contents)
 
