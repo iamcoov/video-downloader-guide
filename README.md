@@ -4,12 +4,25 @@ A practical and educational guide for downloading online videos using different 
 
 This repository is designed for users who want to understand **how online video downloading works** and explore **various legal and technical approaches**.
 
----
+## 📑 Table of Contents
 
-## 🌍 Language
+- [English](#english)
+  - [Introduction](#introduction)
+  - [Common Methods](#common-methods)
+  - [Useful Online Tools](#useful-online-tools)
+  - [How Online Video Parsing Works](#how-online-video-parsing-works)
+  - [Supported Platforms](#supported-platforms-examples)
+  - [Disclaimer](#disclaimer)
+  - [License](#license)
 
-* [English](#english)
-* [中文](#中文)
+- [中文](#中文)
+  - [项目介绍](#项目介绍)
+  - [常见视频下载方式](#常见视频下载方式)
+  - [常用在线工具对比](#常用在线工具对比)
+  - [在线视频解析原理简述](#在线视频解析原理简述)
+  - [支持的平台示例](#支持的平台示例)
+  - [免责声明](#免责声明)
+  - [开源协议](#开源协议)
 
 ---
 
