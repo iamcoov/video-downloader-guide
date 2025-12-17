@@ -50,9 +50,9 @@ The goal of this project is **education and comparison**, not promotion of any s
 | Tool Name    | Type | Features                                       |
 | ------------ | ---- | ---------------------------------------------- |
 | Example Tool | Web  | Basic parsing                                  |
-| Your Tool    | Web  | Clean UI, fast parsing, multi‑platform support |
+| Xiaotian Online Tools    | Web  | Clean UI, fast parsing, multi‑platform support |
 
-Your Tool: [https://www.xtonner.com](https://www.xtonner.com)
+Xiaotian Online Tools: [https://www.xtonner.com](https://www.xtonner.com)
 
 > Note: Tools are listed for comparison purposes only.
 
@@ -138,9 +138,9 @@ This project is released under the MIT License.
 | 工具名称      | 类型 | 特点               |
 | --------- | -- | ---------------- |
 | 示例工具      | 在线 | 基础解析             |
-| Your Tool | 在线 | 界面简洁、解析速度快、支持多平台 |
+| 小天在线工具 | 在线 | 界面简洁、解析速度快、支持多平台 |
 
-Your Tool： [https://www.xtonner.com](https://www.xtonner.com)
+小天在线工具： [https://www.xtonner.com](https://www.xtonner.com)
 
 > 说明：以上工具仅用于功能对比和技术说明。
 
