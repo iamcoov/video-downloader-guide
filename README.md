@@ -4,31 +4,31 @@ A practical and educational guide for downloading online videos using different 
 
 This repository is designed for users who want to understand **how online video downloading works** and explore **various legal and technical approaches**.
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [English](#english)
-  - [Introduction](#-introduction)
-  - [Common Methods](#-common-methods)
-  - [Useful Online Tools](#-useful-online-tools)
-  - [How Online Video Parsing Works](#-how-online-video-parsing-works)
-  - [Supported Platforms](#-supported-platforms-examples)
-  - [Disclaimer](#-disclaimer)
-  - [License](#-license)
+  - [Introduction](#introduction)
+  - [Common Methods](#common-methods)
+  - [Useful Online Tools](#useful-online-tools)
+  - [How Online Video Parsing Works](#how-online-video-parsing-works)
+  - [Supported Platforms](#supported-platforms-examples)
+  - [Disclaimer](#disclaimer)
+  - [License](#license)
 
 - [中文](#中文)
-  - [项目介绍](#-项目介绍)
-  - [常见视频下载方式](#-常见视频下载方式)
-  - [常用在线工具对比](#-常用在线工具对比)
-  - [在线视频解析原理简述](#-在线视频解析原理简述)
-  - [支持的平台示例](#-支持的平台示例)
-  - [免责声明](#-免责声明)
-  - [开源协议](#-开源协议)
+  - [项目介绍](#项目介绍)
+  - [常见视频下载方式](#常见视频下载方式)
+  - [常用在线工具对比](#常用在线工具对比)
+  - [在线视频解析原理简述](#在线视频解析原理简述)
+  - [支持的平台示例](#支持的平台示例)
+  - [免责声明](#免责声明)
+  - [开源协议](#开源协议)
 
 ---
 
 # English
 
-## 📌 Introduction
+## Introduction
 
 Downloading online videos is a common requirement for learning, offline viewing, and content analysis. This guide introduces several widely used approaches and compares their pros and cons.
 
@@ -36,7 +36,7 @@ The goal of this project is **education and comparison**, not promotion of any s
 
 ---
 
-## 🧩 Common Methods
+## Common Methods
 
 ### 1. Browser Developer Tools
 
@@ -58,7 +58,7 @@ The goal of this project is **education and comparison**, not promotion of any s
 
 ---
 
-## 🛠 Useful Online Tools
+## Useful Online Tools
 
 | Tool Name    | Type | Features                                       |
 | ------------ | ---- | ---------------------------------------------- |
@@ -71,7 +71,7 @@ Xiaotian Online Tools: [https://www.xtonner.com](https://www.xtonner.com)
 
 ---
 
-## 📝 How Online Video Parsing Works
+## How Online Video Parsing Works
 
 1. Copy the video page URL
 2. The parser analyzes available media streams
@@ -80,7 +80,7 @@ Xiaotian Online Tools: [https://www.xtonner.com](https://www.xtonner.com)
 
 ---
 
-## 📂 Supported Platforms (Examples)
+## Supported Platforms (Examples)
 
 * TikTok / Douyin
 * Bilibili
@@ -92,7 +92,7 @@ Xiaotian Online Tools: [https://www.xtonner.com](https://www.xtonner.com)
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This repository is for **educational and research purposes only**.
 
@@ -106,7 +106,7 @@ The authors do not host or distribute copyrighted content.
 
 ---
 
-## 📄 License
+## License
 
 This project is released under the MIT License.
 
@@ -114,7 +114,7 @@ This project is released under the MIT License.
 
 # 中文
 
-## 📌 项目介绍
+## 项目介绍
 
 在学习、离线观看或技术研究场景中，下载在线视频是一个常见需求。本仓库从**技术与使用角度**介绍多种常见的视频下载方式，并进行对比说明。
 
@@ -124,21 +124,21 @@ This project is released under the MIT License.
 
 ---
 
-## 🧩 常见视频下载方式
+## 常见视频下载方式
 
-### 1️⃣ 浏览器开发者工具
+### 1.浏览器开发者工具
 
 * 适合有一定技术基础的用户
 * 需要手动分析网络请求
 * 操作复杂，效率较低
 
-### 2️⃣ 桌面软件下载工具
+### 2.桌面软件下载工具
 
 * 需要下载安装
 * 对操作系统有要求
 * 可能包含广告或付费功能
 
-### 3️⃣ 在线视频解析工具
+### 3.在线视频解析工具
 
 * 无需安装
 * 支持多终端使用
@@ -146,7 +146,7 @@ This project is released under the MIT License.
 
 ---
 
-## 🛠 常用在线工具对比
+## 常用在线工具对比
 
 | 工具名称      | 类型 | 特点               |
 | --------- | -- | ---------------- |
@@ -159,7 +159,7 @@ This project is released under the MIT License.
 
 ---
 
-## 📝 在线视频解析原理简述
+## 在线视频解析原理简述
 
 1. 复制视频页面链接
 2. 解析页面中的媒体资源
@@ -168,7 +168,7 @@ This project is released under the MIT License.
 
 ---
 
-## 📂 支持的平台示例
+## 支持的平台示例
 
 * 抖音 / TikTok
 * 哔哩哔哩
@@ -180,7 +180,7 @@ This project is released under the MIT License.
 
 ---
 
-## ⚠️ 免责声明
+## 免责声明
 
 本仓库内容仅用于 **学习与技术研究**。
 
@@ -194,6 +194,6 @@ This project is released under the MIT License.
 
 ---
 
-## 📄 开源协议
+## 开源协议
 
 本项目采用 MIT License 开源发布。
