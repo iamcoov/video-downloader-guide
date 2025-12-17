@@ -1,14 +1,16 @@
 ---
-name: Usage question
-about: Ask questions about how to use the guide
-title: "Usage question"
+name: 使用问题 / Usage question
+about: 关于如何使用本指南的疑问
+标题: "使用问题 / Usage question"
 labels: ["question"]
 ---
 
 
-### Question
+### 问题 / Question
+请清晰描述你的问题。
 Please describe your question clearly.
 
 
-### What have you tried?
-(Optional) Describe what you have already tried.
+### 已尝试的方法 / What have you tried?
+（可选）你已经尝试过哪些方法？
+(Optional) What have you already tried?
